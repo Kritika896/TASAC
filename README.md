@@ -3,6 +3,8 @@
 ## Project Overview
 This project implements a reinforcement learning approach for controlling the temperature of a batch chemical reactor. Using a **Twin Actor Soft Actor-Critic (TASAC)** architecture, the system learns to follow temperature trajectories by manipulating coolant flow rates, crucial for ensuring product quality and process safety in chemical manufacturing.
 
+![image alt](https://github.com/Kritika896/TASAC/blob/main/result.png?raw=true)
+
 ---
 
 ## Table of Contents
