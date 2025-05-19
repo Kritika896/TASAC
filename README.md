@@ -149,7 +149,7 @@ Value Function: V(s) - Estimates the expected return from state s
 
 ## Results
 # The TASAC controller successfully learns to follow temperature trajectories with high accuracy. Performance metrics include:
-
+![image alt](https://github.com/Kritika896/TASAC/blob/main/result.png?raw=true)
 
 Low mean squared error between actual and reference temperatures
 
